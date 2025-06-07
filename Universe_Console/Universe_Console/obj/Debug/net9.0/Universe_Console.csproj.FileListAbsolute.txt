@@ -1,0 +1,14 @@
+C:\Users\Milo\Universe\Universe_Console\Universe_Console\bin\Debug\net9.0\Universe_Console.exe
+C:\Users\Milo\Universe\Universe_Console\Universe_Console\bin\Debug\net9.0\Universe_Console.deps.json
+C:\Users\Milo\Universe\Universe_Console\Universe_Console\bin\Debug\net9.0\Universe_Console.runtimeconfig.json
+C:\Users\Milo\Universe\Universe_Console\Universe_Console\bin\Debug\net9.0\Universe_Console.dll
+C:\Users\Milo\Universe\Universe_Console\Universe_Console\bin\Debug\net9.0\Universe_Console.pdb
+C:\Users\Milo\Universe\Universe_Console\Universe_Console\obj\Debug\net9.0\Universe_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milo\Universe\Universe_Console\Universe_Console\obj\Debug\net9.0\Universe_Console.AssemblyInfoInputs.cache
+C:\Users\Milo\Universe\Universe_Console\Universe_Console\obj\Debug\net9.0\Universe_Console.AssemblyInfo.cs
+C:\Users\Milo\Universe\Universe_Console\Universe_Console\obj\Debug\net9.0\Universe_Console.csproj.CoreCompileInputs.cache
+C:\Users\Milo\Universe\Universe_Console\Universe_Console\obj\Debug\net9.0\Universe_Console.dll
+C:\Users\Milo\Universe\Universe_Console\Universe_Console\obj\Debug\net9.0\refint\Universe_Console.dll
+C:\Users\Milo\Universe\Universe_Console\Universe_Console\obj\Debug\net9.0\Universe_Console.pdb
+C:\Users\Milo\Universe\Universe_Console\Universe_Console\obj\Debug\net9.0\Universe_Console.genruntimeconfig.cache
+C:\Users\Milo\Universe\Universe_Console\Universe_Console\obj\Debug\net9.0\ref\Universe_Console.dll
