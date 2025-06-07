@@ -2,4 +2,4 @@
 
 ## 1. Atome
 
-Mein Universum besteht nicht aus den Klassischen Atomen.
+Mein Universum (kurz myverse) besteht aus Neutronen, Protonen und Elektronen. Später sollen auch noch einzigartige neue Atome hinzukommen.
